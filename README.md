@@ -1,4 +1,7 @@
-# Welcome to React Router!
+# AR Tailors App
+
+Welcome to the AR Tailors App! This project is a modern, full-stack React application template designed to streamline the development of web applications with React Router.
+Welcome to React Router!
 
 A modern, production-ready template for building full-stack React applications using React Router.
 
